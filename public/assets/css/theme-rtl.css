@@ -5141,11 +5141,11 @@ fieldset:disabled .btn {
 }
 
 .navbar-light .navbar-brand {
-  color: #F53838;
+  color: #5092ff;
 }
 
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
-  color: #F53838;
+  color: #5092ff;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -5162,7 +5162,7 @@ fieldset:disabled .btn {
 
 .navbar-light .navbar-nav .show > .nav-link,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #F53838;
+  color: #5092ff;
 }
 
 .navbar-light .navbar-toggler {
@@ -5181,7 +5181,7 @@ fieldset:disabled .btn {
 .navbar-light .navbar-text a,
 .navbar-light .navbar-text a:hover,
 .navbar-light .navbar-text a:focus {
-  color: #F53838;
+  color: #5092ff;
 }
 
 .navbar-dark .navbar-brand {
@@ -18131,5 +18131,15 @@ label {
 /*-----------------------------------------------
 |   User Styles
 -----------------------------------------------*/
+.btn-outline-vpn {
+  color: #5092ff;
+  border-color: #5092ff;
+}
+
+.btn-outline-vpn:hover {
+  color: #fff;
+  background-color: #5092ff;
+  border-color: #5092ff;
+}
 
 /*# sourceMappingURL=theme-rtl.css.map */
