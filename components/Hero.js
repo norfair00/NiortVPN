@@ -25,11 +25,10 @@ const Hero = ({
       <div className="grid grid-flow-row sm:grid-flow-col grid-rows-2 md:grid-rows-1 sm:grid-cols-2 gap-8 py-6 sm:py-16 ">
         <div className=" flex flex-col justify-center items-start row-start-2 sm:row-start-1">
           <h1 className="text-3xl lg:text-4xl xl:text-5xl font-medium text-black-600 leading-normal">
-            Want anything to be easy with <strong>LaslesVPN</strong>.
+            Optez pour le seul<br/>vrai <strong>VPN</strong>.
           </h1>
           <p className="text-black-500 mt-4 mb-6">
-            Provide a network for all your needs with ease and fun using
-            LaslesVPN discover interesting features from us.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultrices mauris sed ex efficitur bibendum. In scelerisque aliquam.
           </p>
           <ButtonPrimary>Get Started</ButtonPrimary>
         </div>
@@ -54,7 +53,7 @@ const Hero = ({
               key={index}
             >
               <div className="flex mx-auto w-40 sm:w-auto">
-                <div className="flex items-center justify-center bg-orange-100 w-12 h-12 mr-6 rounded-full">
+                <div className="flex items-center justify-center bg-vpn-100 w-12 h-12 mr-6 rounded-full">
                   <img src={listUsers.icon} className="h-6 w-6" />
                 </div>
                 <div className="flex flex-col">

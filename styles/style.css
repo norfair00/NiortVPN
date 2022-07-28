@@ -26,6 +26,12 @@
   background-color: rgba(80, 146, 255, var(--bg-opacity));
 }
 
+.bg-vpn-100 {
+  --bg-opacity: 1;
+  background-color: #c8dcff;
+  background-color: rgba(200, 220, 255, var(--bg-opacity));
+}
+
 .hover\:bg-vpn-500:hover {
   --bg-opacity: 1;
   background-color: #5092ff;
