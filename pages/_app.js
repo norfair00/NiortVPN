@@ -1,4 +1,3 @@
-import "../styles/style.css";
 import "../styles/tailwind.css";
 import "../styles/slick.css";
 
