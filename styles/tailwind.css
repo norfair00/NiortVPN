@@ -22,7 +22,7 @@ body {
   color: rgba(80, 146, 255, var(--text-opacity));
 }
 
-.hover\:border-vpn-500 {
+.hover\:border-vpn-500:hover {
   --border-opacity: 1;
   border-color: #5092ff;
   border-color: rgba(80, 146, 255, var(--border-opacity));
