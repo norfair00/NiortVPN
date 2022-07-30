@@ -145,7 +145,7 @@ const Pricing = () => {
           <div className="w-full flex justify-evenly items-center mt-4 flex-wrap lg:flex-nowrap">
             {/* <Netflix className="h-18 w-auto" /> */}
             <img
-              src="/assets/Icon/amazon.png"
+              src="/assets/Icon/tellingtone.png"
               className="h-14 w-auto mt-4 lg:mt-2"
               alt=""
             />
